@@ -1,6 +1,6 @@
 {
   "versions": {
-    "1.0-old": "https://github.com/guilhermefarto/android-autoupdate-apk/raw/master/autoupdate-apk-versions/autoupdateapk_v1.apk",
-    "2.0-rc": "https://github.com/guilhermefarto/android-autoupdate-apk/raw/master/autoupdate-apk-versions/autoupdateapk_v2.apk"
+    "1.0-old": "https://github.com/guilhermefarto/android-autoupdate-apk/raw/master/autoupdate-apk-versions/autoupdateapk1.0-old-release",
+    "2.0-rc": "https://github.com/guilhermefarto/android-autoupdate-apk/raw/master/autoupdate-apk-versions/autoupdateapk-2.0-rc-release"
   }
 }
