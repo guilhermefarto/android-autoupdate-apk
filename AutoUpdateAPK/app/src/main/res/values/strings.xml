@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoUpdateAPK</string>
+    <string name="lblUpdate">Update</string>
+    <string name="lblRestore">Restore</string>
+</resources>
